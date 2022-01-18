@@ -1,0 +1,13 @@
+*.mat
+*.jpg
+*.png
+/Balancing
+/CompareImages
+/DatasetSamples/*.mat
+/Extra Data 
+/Features
+/Genetic Algorithm
+/Packs
+/Results
+
+
